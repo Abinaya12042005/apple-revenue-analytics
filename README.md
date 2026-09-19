@@ -23,7 +23,7 @@ and 5 geographic segments, built using real data sourced from Apple's SEC filing
 4. Built custom Apple-branded theme (dark page background, light contrast cards)
 
 ## Dashboard Preview
-![Dashboard Screenshot](dashboard/screenshots/dashboard_overview.png)
+![Dashboard Screenshot](dashboard_overview.png)
 
 ## Files
 - `data/apple_revenue_annual.csv` — Verified annual revenue by category and geography
