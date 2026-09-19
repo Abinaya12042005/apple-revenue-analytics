@@ -1,0 +1,81 @@
+fiscal_year,fiscal_year_end_date,dimension_type,dimension,revenue_musd
+2018,2018-09-29,Category,iPhone,164888
+2018,2018-09-29,Category,Mac,25198
+2018,2018-09-29,Category,iPad,18380
+2018,2018-09-29,Category,Wearables Home and Accessories,17381
+2018,2018-09-29,Category,Services,39748
+2018,2018-09-29,Geography,Americas,112093
+2018,2018-09-29,Geography,Europe,62420
+2018,2018-09-29,Geography,Greater China,51942
+2018,2018-09-29,Geography,Japan,21733
+2018,2018-09-29,Geography,Rest of Asia Pacific,17407
+2019,2019-09-28,Category,iPhone,142381
+2019,2019-09-28,Category,Mac,25740
+2019,2019-09-28,Category,iPad,21280
+2019,2019-09-28,Category,Wearables Home and Accessories,24482
+2019,2019-09-28,Category,Services,46291
+2019,2019-09-28,Geography,Americas,116914
+2019,2019-09-28,Geography,Europe,60288
+2019,2019-09-28,Geography,Greater China,43678
+2019,2019-09-28,Geography,Japan,21506
+2019,2019-09-28,Geography,Rest of Asia Pacific,17788
+2020,2020-09-26,Category,iPhone,137781
+2020,2020-09-26,Category,Mac,28622
+2020,2020-09-26,Category,iPad,23724
+2020,2020-09-26,Category,Wearables Home and Accessories,30620
+2020,2020-09-26,Category,Services,53768
+2020,2020-09-26,Geography,Americas,124556
+2020,2020-09-26,Geography,Europe,68640
+2020,2020-09-26,Geography,Greater China,40308
+2020,2020-09-26,Geography,Japan,21418
+2020,2020-09-26,Geography,Rest of Asia Pacific,19593
+2021,2021-09-25,Category,iPhone,191973
+2021,2021-09-25,Category,Mac,35190
+2021,2021-09-25,Category,iPad,31862
+2021,2021-09-25,Category,Wearables Home and Accessories,38367
+2021,2021-09-25,Category,Services,68425
+2021,2021-09-25,Geography,Americas,153306
+2021,2021-09-25,Geography,Europe,89307
+2021,2021-09-25,Geography,Greater China,68366
+2021,2021-09-25,Geography,Japan,28482
+2021,2021-09-25,Geography,Rest of Asia Pacific,26356
+2022,2022-09-24,Category,iPhone,205490
+2022,2022-09-24,Category,Mac,40180
+2022,2022-09-24,Category,iPad,29290
+2022,2022-09-24,Category,Wearables Home and Accessories,41240
+2022,2022-09-24,Category,Services,78130
+2022,2022-09-24,Geography,Americas,169600
+2022,2022-09-24,Geography,Europe,95100
+2022,2022-09-24,Geography,Greater China,74200
+2022,2022-09-24,Geography,Japan,25900
+2022,2022-09-24,Geography,Rest of Asia Pacific,29300
+2023,2023-09-30,Category,iPhone,200580
+2023,2023-09-30,Category,Mac,29360
+2023,2023-09-30,Category,iPad,28300
+2023,2023-09-30,Category,Wearables Home and Accessories,39850
+2023,2023-09-30,Category,Services,85200
+2023,2023-09-30,Geography,Americas,162560
+2023,2023-09-30,Geography,Europe,94294
+2023,2023-09-30,Geography,Greater China,72559
+2023,2023-09-30,Geography,Japan,24257
+2023,2023-09-30,Geography,Rest of Asia Pacific,29615
+2024,2024-09-28,Category,iPhone,201180
+2024,2024-09-28,Category,Mac,29980
+2024,2024-09-28,Category,iPad,26690
+2024,2024-09-28,Category,Wearables Home and Accessories,37010
+2024,2024-09-28,Category,Services,96170
+2024,2024-09-28,Geography,Americas,167000
+2024,2024-09-28,Geography,Europe,101300
+2024,2024-09-28,Geography,Greater China,66952
+2024,2024-09-28,Geography,Japan,25000
+2024,2024-09-28,Geography,Rest of Asia Pacific,30600
+2025,2025-09-27,Category,iPhone,209590
+2025,2025-09-27,Category,Mac,33710
+2025,2025-09-27,Category,iPad,28020
+2025,2025-09-27,Category,Wearables Home and Accessories,35690
+2025,2025-09-27,Category,Services,109160
+2025,2025-09-27,Geography,Americas,178353
+2025,2025-09-27,Geography,Europe,111032
+2025,2025-09-27,Geography,Greater China,64377
+2025,2025-09-27,Geography,Japan,28703
+2025,2025-09-27,Geography,Rest of Asia Pacific,33696
